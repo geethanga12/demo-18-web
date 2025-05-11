@@ -5,3 +5,23 @@
   border: none;
   margin-top: 20px;
 }
+
+.h01 {
+  color: red;
+  font-weight: 800;
+}
+
+.btn4 {
+  padding: 20px;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  margin-top: 20px;
+}
